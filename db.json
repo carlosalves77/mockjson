@@ -1,0 +1,77 @@
+{
+  "homework": [
+    {
+      "homeworkTitle": "Estudar para Provas e Avaliações",
+      "date": "01/10/2023"
+    },
+    {
+      "homeworkTitle": "Concluir Tarefas de Casa",
+      "date": "05/10/2023"
+    },
+    {
+      "homeworkTitle": "Projetos e Trabalhos em Grupo",
+      "date": "12/10/2023"
+    },
+    {
+      "homeworkTitle": "Leitura Independente",
+      "date": "16/10/2023"
+    },
+    {
+      "homeworkTitle": "Prática de Habilidades Matemáticas",
+      "date": "19/10/2023"
+    },
+    {
+      "homeworkTitle": "Atividades Físicas e Recreação",
+      "date": "23/10/2023"
+    },
+    {
+      "homeworkTitle": "Procurar Oportunidades de Voluntariado",
+      "date": "27/10/2023"
+    },
+    {
+      "homeworkTitle": "Planejamento de Carreira e Exploração Profissional",
+      "date": "30/10/2023"
+    }
+  ],
+  "notices" : [
+     {"title": "Dia das Profissões", 
+       "logo": "https://i.ytimg.com/vi/wdB5mYdayl0/maxresdefault.jpg",
+       "date": "07 outubro 2023",
+       "description": "O Dia das Profissões é um evento ou atividade que visa proporcionar aos estudantes a oportunidade de aprender sobre várias profissões, explorar diferentes carreiras e obter informações valiosas sobre escolhas de carreira futura. Esse dia geralmente ocorre em escolas, universidades ou eventos educacionais e pode incluir uma variedade de atividades, como palestras, workshops, feiras de carreiras, visitas a empresas e painéis de discussãoO objetivo principal do Dia das Profissões é ajudar os estudantes a tomar decisões informadas sobre seus futuros acadêmicos e profissionais, permitindo que eles conheçam de perto profissionais de diferentes áreas e entendam melhor as demandas, responsabilidades e oportunidades de diversas profissões. Isso pode ser especialmente valioso para estudantes do ensino médio que estão prestes a ingressar na faculdade ou escolher uma carreira. Em resumo, o Dia das Profissões é uma iniciativa educacional que visa orientar os estudantes em suas escolhas de carreira, oferecendo informações e experiências práticas relacionadas a várias profissões.", 
+       "noticePicture": "https://i.ytimg.com/vi/wdB5mYdayl0/maxresdefault.jpg"},
+    
+    {"title": "Feira de Ciências",
+      "logo": "https://i.pinimg.com/originals/e3/d3/89/e3d38938fa83e153323b7faabda8fe16.jpg",
+      "date": "14 outubro 2023",
+      "description": "Uma Feira de Ciências é um evento educacional que reúne estudantes, professores e, às vezes, até mesmo membros da comunidade para apresentar projetos e experimentos relacionados a diversas áreas da ciência. Esses eventos têm como objetivo principal promover o aprendizado prático da ciência, estimular o interesse por disciplinas científicas e incentivar a criatividade e a pesquisa.\nEm uma Feira de Ciências, os participantes geralmente criam projetos que incluem hipóteses, experimentos, coleta de dados e análise dos resultados. Eles apresentam seus projetos em estandes ou exposições, onde podem compartilhar seus conhecimentos com os visitantes e, muitas vezes, são avaliados por um painel de jurados. As feiras de ciências são uma oportunidade para os estudantes desenvolverem habilidades de comunicação, aprenderem a metodologia científica e se envolverem ativamente na exploração do mundo ao seu redor.\nEsses eventos são uma parte importante da educação científica e promovem a curiosidade e o pensamento crítico entre os participantes, ajudando a criar uma base sólida para futuros estudos e carreiras nas áreas de ciência, tecnologia, engenharia e matemática.",
+      "noticePicture": "https://i.pinimg.com/originals/e3/d3/89/e3d38938fa83e153323b7faabda8fe16.jpg"},
+    },
+    {
+      "title": "Festival de Outono",
+      "logo": "https://www.visiteosusa.com.br/sites/default/files/styles/hero_l/public/images/hero_media_image/2016-11/Pumpkins%2001.JPG?h=f406e11b&itok=fRPY15St",
+      "date": "10/14 outubro 2023",
+      "description": "O Festival de Outono é uma celebração sazonal que ocorre em muitas culturas ao redor do mundo durante a estação do outono. É uma festividade que marca a colheita, expressa a gratidão pela abundância de alimentos e comemora a transição do calor do verão para o frio do inverno. Neste festival, as pessoas se envolvem em atividades tradicionais que variam de cultura para cultura. Isso pode incluir a preparação de pratos sazonais, a realização de festas comunitárias, desfiles e decoração de espaços com temas outonais, como abóboras, folhas secas e outros elementos naturais típicos da estação. Uma característica comum em muitos festivais de outono é a ênfase na gratidão. As pessoas expressam sua apreciação pelas colheitas bem-sucedidas, pela comida que têm à mesa e pelas bênçãos que receberam durante o ano. Isso é frequentemente feito por meio de orações, rituais ou banquetes compartilhados com familiares e amigos.",
+      "noticePicture": "https://www.visiteosusa.com.br/sites/default/files/styles/hero_l/public/images/hero_media_image/2016-11/Pumpkins%2001.JPG?h=f406e11b&itok=fRPY15St"
+    },
+    {
+      "title": "Semana da Saúde",
+      "picture": "https://www.ergocorp.com.br/uploads/images/bra_noticias/arte-post-800x445.jpg",
+      "date": "10/14 outubro 2023",
+      "description": "A Semana da Saúde é um período dedicado à promoção do bem-estar físico, mental e emocional de indivíduos e comunidades. Durante essa semana, uma série de eventos, programas e iniciativas são realizados em todo o mundo, com o objetivo de conscientizar as pessoas sobre a importância de cuidar da saúde e adotar hábitos de vida saudáveis. Essa semana especial destaca a necessidade de priorizar a saúde em nossas vidas diárias. Envolve a disseminação de informações sobre uma alimentação equilibrada, a importância da prática regular de exercícios, a prevenção de doenças, a promoção da saúde mental e emocional, e a valorização de hábitos saudáveis no local de trabalho e em casa. Durante a Semana da Saúde, muitas instituições de saúde, escolas, empresas e organizações da sociedade civil se unem para oferecer palestras, workshops, exames de saúde gratuitos, atividades físicas, aulas de ioga e muito mais. Essas atividades visam educar as pessoas sobre como fazer escolhas saudáveis em suas vidas cotidianas e como identificar os sinais precoces de problemas de saúde. Além disso, a Semana da Saúde também destaca questões globais de saúde, como a importância da vacinação, a luta contra doenças infecciosas e a promoção da saúde em comunidades carentes. Ela serve como um lembrete de que a saúde é um direito fundamental de todos e que devemos trabalhar juntos para torná-la acessível e sustentável para todas as pessoas. Em resumo, a Semana da Saúde é uma oportunidade valiosa para refletirmos sobre nossos hábitos e escolhas de vida e para nos engajarmos em ações que promovam uma vida mais saudável e equilibrada. É um lembrete de que a saúde é um ativo precioso que devemos valorizar e cuidar ao longo de toda a nossa jornada.",
+      "pictureURL": "https://www.ergocorp.com.br/uploads/images/bra_noticias/arte-post-800x445.jpg"
+    },
+     {
+      "title": "Noite das Artes",
+      "picture": "https://static.todamateria.com.br/upload/no/it/noiteestreladasobrerodano-cke.jpg?auto_optimize=low",
+      "date": "21 outubro 2023",
+      "description": "A Noite das Artes é um evento cultural que celebra a expressão criativa e artística em suas diversas formas. É uma ocasião especial em que artistas de todas as áreas, como música, dança, teatro, pintura, escultura, literatura e muito mais, se reúnem para compartilhar seu talento e paixão com o público. Esse evento geralmente ocorre em uma noite única e oferece uma experiência enriquecedora para todos os presentes. Pode ser realizado em teatros, galerias de arte, escolas, universidades ou até mesmo ao ar livre, dependendo das circunstâncias e da criatividade dos organizadores. Durante a Noite das Artes, os espectadores têm a oportunidade de mergulhar no mundo da arte e da cultura. Eles podem assistir a performances ao vivo, apreciar exposições de arte visual, participar de workshops interativos e até mesmo interagir com os artistas. É uma ocasião em que a comunidade se une para celebrar a diversidade da expressão artística e para apoiar os talentos locais. Além disso, a Noite das Artes também desempenha um papel importante na educação, incentivando o interesse das pessoas pela arte e pela cultura. É uma oportunidade para as escolas e instituições educacionais destacarem o valor da educação artística e inspirarem os estudantes a explorar seu próprio potencial criativo. Em resumo, a Noite das Artes é uma celebração vibrante da criatividade humana, onde a imaginação e a expressão artística se encontram para enriquecer nossas vidas. É um lembrete de que a arte é uma forma poderosa de comunicar emoções, compartilhar histórias e enriquecer nossa compreensão do mundo ao nosso redor. É um evento que inspira e encanta, unindo comunidades em torno da beleza e da diversidade da expressão artística.",
+      "pictureURL": "https://static.todamateria.com.br/upload/no/it/noiteestreladasobrerodano-cke.jpg?auto_optimize=low"
+    },
+  ]
+}
+
+
+
+
+
+
