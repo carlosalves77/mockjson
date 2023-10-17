@@ -34,13 +34,16 @@
     }
   ],
   "notices" : [
-     {"title": "Dia das Profissões", 
+     {
+       "title": "Dia das Profissões", 
        "logo": "https://i.ytimg.com/vi/wdB5mYdayl0/maxresdefault.jpg",
        "date": "07 outubro 2023",
        "description": "O Dia das Profissões é um evento ou atividade que tem como objetivo proporcionar aos estudantes a oportunidade de aprender sobre várias profissões, explorar diferentes carreiras e obter informações valiosas para suas escolhas futuras. Geralmente, esse dia ocorre em escolas, universidades ou eventos educacionais e pode incluir uma variedade de atividades, como palestras, workshops, feiras de carreiras, visitas a empresas e painéis de discussão.O principal propósito do Dia das Profissões é auxiliar os estudantes a tomar decisões informadas acerca de seus futuros acadêmicos e profissionais, permitindo que eles tenham um contato próximo com profissionais de diversas áreas e compreendam melhor as demandas, responsabilidades e oportunidades inerentes a diferentes profissões. Essa iniciativa pode ser particularmente valiosa para estudantes do ensino médio que estão prestes a ingressar na faculdade ou tomar decisões cruciais sobre suas carreiras.",
-       "noticePicture": "https://i.ytimg.com/vi/wdB5mYdayl0/maxresdefault.jpg"},
+       "noticePicture": "https://i.ytimg.com/vi/wdB5mYdayl0/maxresdefault.jpg"
+     },
     
-    {"title": "Feira de Ciências",
+    {
+      "title": "Feira de Ciências",
       "logo": "https://i.pinimg.com/originals/e3/d3/89/e3d38938fa83e153323b7faabda8fe16.jpg",
       "date": "14 outubro 2023",
       "description": "Uma Feira de Ciências é um evento educacional que reúne estudantes, professores e, por vezes, até membros da comunidade, com o propósito de apresentar projetos e experimentos relacionados a diversas áreas da ciência. O objetivo principal desses eventos é promover o aprendizado prático da ciência, estimular o interesse por disciplinas científicas e fomentar a criatividade e a pesquisa.Durante uma Feira de Ciências, os participantes geralmente desenvolvem projetos que envolvem hipóteses, experimentos, coleta de dados e análise dos resultados. Eles apresentam seus projetos em estandes ou exposições, onde têm a oportunidade de compartilhar seus conhecimentos com os visitantes e, frequentemente, são avaliados por um painel de jurados. As feiras de ciências representam uma oportunidade valiosa para que os estudantes desenvolvam habilidades de comunicação, aprendam a metodologia científica e se envolvam ativamente na exploração do mundo ao seu redor.",
@@ -72,7 +75,6 @@
     },
   ]
   
- 
 }
 
 
