@@ -1,38 +1,4 @@
 {
-  "homework": [
-    {
-      "homeworkTitle": "Estudar para Provas e Avaliações",
-      "date": "01/10/2023"
-    },
-    {
-      "homeworkTitle": "Concluir Tarefas de Casa",
-      "date": "05/10/2023"
-    },
-    {
-      "homeworkTitle": "Projetos e Trabalhos em Grupo",
-      "date": "12/10/2023"
-    },
-    {
-      "homeworkTitle": "Leitura Independente",
-      "date": "16/10/2023"
-    },
-    {
-      "homeworkTitle": "Prática de Habilidades Matemáticas",
-      "date": "19/10/2023"
-    },
-    {
-      "homeworkTitle": "Atividades Físicas e Recreação",
-      "date": "23/10/2023"
-    },
-    {
-      "homeworkTitle": "Procurar Oportunidades de Voluntariado",
-      "date": "27/10/2023"
-    },
-    {
-      "homeworkTitle": "Planejamento de Carreira e Exploração Profissional",
-      "date": "30/10/2023"
-    }
-  ],
   "notices" : [
      {
        "title": "Dia das Profissões", 
